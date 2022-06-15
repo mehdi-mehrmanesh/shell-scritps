@@ -1,2 +1,0 @@
-an example project
-copyrght
